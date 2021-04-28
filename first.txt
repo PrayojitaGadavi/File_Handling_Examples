@@ -1,0 +1,5 @@
+Welcome to python world
+This is examples of python
+in file handling
+ This adding data in file
+ This one more adding data in file
